@@ -1,0 +1,24 @@
+# Marco Soprani Tayar
+
+> Marco Soprani Tayar, also known as Marco Tayar, works on physical AI and aerial robotics: training and deploying models for robot perception, navigation, and control.
+
+Mechatronics Engineering student at EESC, University of São Paulo, and researcher at the USP Center for Robotics. Research includes reinforcement learning in simulation, onboard vision-language navigation, learned perception, and embedded deployment. RAPTOR work is integration and deployment of a pretrained policy, not training that policy. VLN flight experiments used motion-capture localization.
+
+## Portfolio
+
+- [Portfolio, projects, publications, and experience](https://marcotayar.com/): Primary source for current public information.
+- [CV](https://marcotayar.com/assets/marco-tayar-cv.pdf): Research and professional background.
+
+## Publications
+
+- [VLN on the Fly](https://arxiv.org/abs/2609.20191): An Onboard Vision-Language Navigation Stack for Aerial Robots, IMAV 2026.
+- [VLN project and demonstrations](https://vln-on-the-fly.github.io/)
+- [VLN source code](https://github.com/peDrontonio/VLNontheFly)
+- [Autonomous UAV Flight Navigation in Confined Spaces: A Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/11273007/): LARS 2025, comparing PPO and SAC in high-fidelity simulation.
+
+## Identity and profiles
+
+- [ORCID](https://orcid.org/0009-0001-9907-782X)
+- [Google Scholar](https://scholar.google.com/citations?user=-lX9T10AAAAJ)
+- [GitHub](https://github.com/marcotayar)
+- [LinkedIn](https://www.linkedin.com/in/marcotayar/)

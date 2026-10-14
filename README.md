@@ -23,3 +23,11 @@ Publish the repository root from the `main` branch. `CNAME` sets `marcotayar.com
 In Cloudflare, create DNS-only A records for `@` pointing to 185.199.108.153, 185.199.109.153, 185.199.110.153, and 185.199.111.153. Create a DNS-only CNAME for `www` pointing to `marcotayar.github.io`. Preserve email records. Replace conflicting website records only.
 
 Verify the domain in GitHub account Settings > Pages using GitHub's supplied TXT record. After DNS validation and certificate issuance, enable Enforce HTTPS in repository Settings > Pages. Check both apex and www URLs.
+
+## Search and AI discovery
+
+The HTML contains Person, ProfilePage, and ScholarlyArticle JSON-LD. Keep identity links and publication metadata consistent with visible content. `sitemap.xml` lists the canonical home page; section fragments are not separate pages. `robots.txt` permits all crawlers, including search and model-training crawlers. This is public access permission, not a promise of indexing or inclusion in model training.
+
+`llms.txt` is an experimental machine-readable guide; it is not an established Google ranking factor or a guaranteed LLM ingestion mechanism. Update it when changing the portfolio's factual content.
+
+Verify the domain in Google Search Console with its TXT record, submit `https://marcotayar.com/sitemap.xml`, and request indexing of the home page. Import the verified property into Bing Webmaster Tools and submit the sitemap there. Add the canonical site URL to Scholar, ORCID, GitHub, and LinkedIn profiles. Account verification and profile edits require the owner's access.
