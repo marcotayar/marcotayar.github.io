@@ -12,6 +12,8 @@ Edit `index.html` for project descriptions, publications, awards, and profile li
 
 RAPTOR is a pretrained policy: Marco's contribution here is integration and deployment, not RAPTOR training. LARS 2025 documents separate PPO/SAC research. YouTube links are intentionally omitted until provided.
 
+Keep the voice personal and factual: the opening uses Marco's name and field description, and section headings use direct labels rather than promotional taglines.
+
 ## GitHub Pages and Cloudflare
 
 Publish the repository root from the `main` branch. `CNAME` sets `marcotayar.com` as the custom domain.
