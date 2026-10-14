@@ -5,3 +5,4 @@
 @media(min-width:1050px){.portrait{position:absolute;right:0;top:120px;width:190px}.hero h1{font-size:68px}.hero .intro{max-width:710px;padding-right:35px}}
 @media(max-width:600px){.portrait{width:130px}.awards ul{grid-template-columns:1fr}footer>div{gap:15px}}
 .hero>.eyebrow{font-size:14px}
+#about>p{max-width:850px;color:var(--muted);font-size:15px;margin-top:24px}

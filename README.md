@@ -14,6 +14,8 @@ RAPTOR is a pretrained policy: Marco's contribution here is integration and depl
 
 Keep the voice personal and factual: the opening uses Marco's name and field description, and section headings use direct labels rather than promotional taglines.
 
+Page order: name and field description, a two-paragraph About introduction, Projects, Publications, Research interests, Awards & service, Experience & education, Contact. Keep the experience timeline separate from the short introduction.
+
 ## GitHub Pages and Cloudflare
 
 Publish the repository root from the `main` branch. `CNAME` sets `marcotayar.com` as the custom domain.
