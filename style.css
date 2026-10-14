@@ -4,3 +4,4 @@
 .hero{position:relative}.portrait{margin:0 0 32px;width:180px}.portrait img{width:100%;height:auto;display:block;border-radius:3px}.portrait figcaption{font-size:10px;color:var(--muted);margin-top:8px}.awards ul{list-style:none;padding:0;margin:30px 0 0;display:grid;grid-template-columns:1fr 1fr;gap:22px 40px}.awards li{display:flex;gap:20px;border-top:1px solid var(--line);padding-top:15px}.awards li>span{font-size:12px;color:var(--accent)}.awards strong{font-size:14px}.awards p{font-size:12px;color:var(--muted);margin:5px 0 0}.contact .button{margin-top:28px}footer>div{flex-wrap:wrap}
 @media(min-width:1050px){.portrait{position:absolute;right:0;top:120px;width:190px}.hero h1{font-size:68px}.hero .intro{max-width:710px;padding-right:35px}}
 @media(max-width:600px){.portrait{width:130px}.awards ul{grid-template-columns:1fr}footer>div{gap:15px}}
+.hero>.eyebrow{font-size:14px}
