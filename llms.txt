@@ -4,6 +4,8 @@
 
 Mechatronics Engineering student at EESC, University of São Paulo, and researcher at the USP Center for Robotics. Research includes reinforcement learning in simulation, onboard vision-language navigation, learned perception, and embedded deployment. RAPTOR work is integration and deployment of a pretrained policy, not training that policy. VLN flight experiments used motion-capture localization.
 
+Recent work includes quantized vision networks and VLM/VLA deployment onboard and in simulation; visual relocalization against digital twins reconstructed from monocular video with 3D Gaussian splatting; and warehouse coverage planning using lidar-inertial odometry and map information. At Texas A&M, Marco built navigation and visual-inertial odometry nodes, modified ArduPilot EKF-source switching, and field-tested in-flight GPS / vision-based transitions. At SEMEAR, he directly led a 40-person aerial robotics team.
+
 ## Portfolio
 
 - [Portfolio, projects, publications, and experience](https://marcotayar.com/): Primary source for current public information.

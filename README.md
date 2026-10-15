@@ -12,9 +12,11 @@ Edit `index.html` for project descriptions, publications, awards, and profile li
 
 RAPTOR is a pretrained policy: Marco's contribution here is integration and deployment, not RAPTOR training. LARS 2025 documents separate PPO/SAC research. YouTube links are intentionally omitted until provided.
 
-Keep the voice personal and factual: the opening uses Marco's name and field description, and section headings use direct labels rather than promotional taglines.
+The design follows the academic profile/sidebar pattern used by AcademicPages and Arthur Bucker's site: compact masthead, circular portrait and profile links, white background, system sans-serif typography, blue links, and text-led sections. This is a custom static implementation, not a Jekyll/AcademicPages installation. No external fonts or client-side scripts are needed.
 
-Page order: name and field description, a two-paragraph About introduction, Projects, Publications, Research interests, Awards & service, Experience & education, Contact. Keep the experience timeline separate from the short introduction.
+Keep the voice personal and factual. Main content order: About me and research interests, Publications, Selected projects, Research & engineering experience, Education, Awards & service, Technical skills & languages, Contact.
+
+The current content and downloadable CV use the user-supplied `assets/marco-tayar-cv1.pdf`. Keep that source file intact. Corrected details include 3D Gaussian-splatting relocalization, warehouse coverage planning and earlier offboard box identification, onboard/simulation VLA baselines, ArduPilot EKF-source switching demonstrated in flight, and leadership of a 40-person SEMEAR team.
 
 ## GitHub Pages and Cloudflare
 
