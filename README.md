@@ -14,6 +14,8 @@ RAPTOR is a pretrained policy: Marco's contribution here is integration and depl
 
 The design follows the academic profile/sidebar pattern used by AcademicPages and Arthur Bucker's site: compact masthead, circular portrait and profile links, white background, system sans-serif typography, blue links, and text-led sections. This is a custom static implementation, not a Jekyll/AcademicPages installation. No external fonts or client-side scripts are needed.
 
+The stylesheet URL includes a version query (`style.css?v=academic-1`) to prevent the redesigned HTML from reusing cached pre-redesign CSS. Bump this version when making incompatible layout changes.
+
 Keep the voice personal and factual. Main content order: About me and research interests, Publications, Selected projects, Research & engineering experience, Education, Awards & service, Technical skills & languages, Contact.
 
 The current content and downloadable CV use the user-supplied `assets/marco-tayar-cv1.pdf`. Keep that source file intact. Corrected details include 3D Gaussian-splatting relocalization, warehouse coverage planning and earlier offboard box identification, onboard/simulation VLA baselines, ArduPilot EKF-source switching demonstrated in flight, and leadership of a 40-person SEMEAR team.
